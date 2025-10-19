@@ -1,0 +1,13 @@
+! Title: loudtrexx's reputation based malware blocklist for uBO
+! Expires: 1 day
+! Description: Includes reputation based sites that include malware, info
+stealers or adware
+!
+!
+! As seen on YouTube!
+! Most of these sites are from YouTube (Good job google!)
+
+! (Fake) windows activation servies
+*.activated.win
+
+
