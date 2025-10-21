@@ -1,13 +1,15 @@
-! Title: loudtrexx's reputation based malware blocklist for uBO
+! Title: loudtrexx's reputation based malware and crapware blocklist for uBO
 ! Expires: 1 day
 ! Description: Includes reputation based sites that include malware, info
 stealers or adware
-!
+! Homepage: https://github.com/loudtrexx/Reputation-based-blocklist-for-uBO/
 !
 ! As seen on YouTube!
 ! Most of these sites are from YouTube (Good job google!)
+! My defenition of crapware: Mix on scareware, adware and possibly even
+malware and doesn't do its job (Or does it poorly)
 
-! (Fake) windows activation servies
-*.activated.win
-
+! (Fake) service activation servies
+||activated.win^
+||mvscc.icu/^
 
