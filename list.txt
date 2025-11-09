@@ -13,3 +13,5 @@ malware and doesn't do its job (Or does it poorly)
 ||activated.win^
 ||mvscc.icu/^
 
+! Phishing sites
+||24b.my^
